@@ -1,0 +1,23 @@
+{
+  "animatedParts": {
+    "parts": {
+      "hash_brown": {
+        "properties": {
+          "image": "hash_brown.png",
+          "offset": [ 0.3, 0.2 ],
+          "scale": 0.022,
+          "transformationGroups": [ "hash_brown" ]
+        }
+      }
+    }
+  },
+  "transformationGroups": {
+    "hash_brown": { }
+  },
+  "sounds": {
+    "hash_brown": {
+      "pool": [ "/sfx/npc/quadruped/catmhead_attack1.ogg", "/sfx/npc/quadruped/catmhead_idle2.ogg", "/sfx/npc/quadruped/catmhead_pain1.ogg", "/sfx/npc/quadruped/catmhead_pain2.ogg" ],
+      "rangeMultiplier": 2
+    }
+  }
+}

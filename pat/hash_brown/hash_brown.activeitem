@@ -1,0 +1,20 @@
+{
+  "itemName": "pat_hash_brown",
+  "shortdescription": "Hash Brown",
+  "description": "McDonald's Hash Browns are deliciously tasty and perfectly crispy.",
+  "category": "foodJunk",
+  "tooltipFields": { "subtitle": "Food" },
+  "rarity": "Essential",
+  "price": 400,
+  "maxStack": 1,
+  "twoHanded": false,
+  "inventoryIcon": "hash_brown.png",
+
+  "cinematicOnPickup": "/pat/hash_brown/hash_brown.cinematic",
+
+  "animation": "hash_brown.animation",
+  "scripts": [ "hash_brown.lua" ],
+
+  "idleAngle": -80,
+  "pitchNRand": [ 0.1, 1 ]
+}
