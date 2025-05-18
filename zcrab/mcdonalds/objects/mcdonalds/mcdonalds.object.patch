@@ -2,6 +2,6 @@
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": { "item": "pat_hash_brown" }
+    "value": { "item": "pat_hash brown" }
   }
 ]
